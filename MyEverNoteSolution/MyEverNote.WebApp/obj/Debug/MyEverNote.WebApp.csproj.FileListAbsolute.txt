@@ -1,0 +1,153 @@
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.WebApp.dll.config
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.WebApp.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.WebApp.pdb
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csc.exe
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csc.exe.config
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csc.rsp
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csi.exe
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csi.exe.config
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csi.rsp
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Console.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\vbc.exe
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\vbc.rsp
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Helpers.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Mvc.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Razor.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Razor.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Helpers.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Mvc.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.csprojAssemblyReference.cache
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.csproj.CopyComplete
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.dll
+C:\Users\ebalc\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.WebApp.dll.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.WebApp.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.WebApp.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csc.exe
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csc.exe.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csc.rsp
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csi.exe
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csi.exe.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\csi.rsp
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Console.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\vbc.exe
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\vbc.exe.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\vbc.rsp
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Helpers.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Mvc.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Razor.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Razor.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Helpers.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\System.Web.Mvc.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.csprojAssemblyReference.cache
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.csproj.CopyComplete
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\obj\Debug\MyEverNote.WebApp.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\EntityFramework.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\EntityFramework.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.BusinessLayer.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.DataAccessLayer.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.Entities.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.BusinessLayer.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.BusinessLayer.dll.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.DataAccessLayer.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.DataAccessLayer.dll.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.Entities.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.Entities.dll.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\FakeData.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\FakeData.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.Common.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.WebApp\bin\MyEverNote.Common.pdb

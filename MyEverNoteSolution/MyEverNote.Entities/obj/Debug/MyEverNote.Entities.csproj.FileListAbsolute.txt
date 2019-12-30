@@ -1,0 +1,13 @@
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\MyEverNote.Entities.dll.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\MyEverNote.Entities.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\MyEverNote.Entities.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\obj\Debug\MyEverNote.Entities.csprojAssemblyReference.cache
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\obj\Debug\MyEverNote.Entities.csproj.CopyComplete
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\obj\Debug\MyEverNote.Entities.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\obj\Debug\MyEverNote.Entities.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\FakeData.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Entities\bin\Debug\FakeData.pdb

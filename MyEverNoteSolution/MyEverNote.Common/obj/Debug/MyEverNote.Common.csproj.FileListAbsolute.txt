@@ -1,0 +1,9 @@
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\bin\Debug\MyEverNote.Common.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\bin\Debug\MyEverNote.Common.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\obj\Debug\MyEverNote.Common.csprojAssemblyReference.cache
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\obj\Debug\MyEverNote.Common.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\obj\Debug\MyEverNote.Common.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\bin\Debug\MyEverNote.Entities.dll
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\bin\Debug\MyEverNote.Entities.pdb
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\bin\Debug\MyEverNote.Entities.dll.config
+C:\Users\Rabia Şafak\source\repos\MyEverNoteSolution\MyEverNote.Common\obj\Debug\MyEverNote.Common.csproj.CopyComplete
